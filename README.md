@@ -53,7 +53,9 @@
 
 
 ## Output:
-![alt text](EMPD%20EXP1.png)
+
+![image].(https://raw.githubusercontent.com/Mithun-Sai/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/EMPD%20EXP1.png)
+
 
 
 ### Name:
