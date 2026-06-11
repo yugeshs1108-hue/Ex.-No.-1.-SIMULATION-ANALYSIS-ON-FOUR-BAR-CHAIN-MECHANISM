@@ -53,8 +53,9 @@
 
 
 ## Output:
+<img width="4713" height="6714" alt="exp 1 empd" src="https://github.com/user-attachments/assets/9f899634-79ca-440f-8570-014949116f28" />
 
-![image].(https://raw.githubusercontent.com/Mithun-Sai/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/main/EMPD%20EXP1.png)
+
 
 
 
